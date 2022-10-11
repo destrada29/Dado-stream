@@ -1,20 +1,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-# s=0
-# n= int(input("Inserte el numero de dados deseados: "))
-# matriz_dados=np.zeros([n,7])
-# sumas=np.array([0,1,2,3,4,5,6])
-# m=0
-# list=[]
-# for i in range (n):
-#     for j in range (7):
-#         matriz_dados[i,j]=m
-#         m+=1
-#     m=0
-
-
-
 
 n= int(input("Inserte el numero de dados deseados: "))
 cont=0
